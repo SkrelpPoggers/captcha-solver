@@ -1,3 +1,7 @@
+# captcha-solver
+Maplestory (Kastia private server) ld solver. 
+
+
 Things to do with this LD:
 -Make sure the captcha.jpg is in the same folder as the program
 -Have screen res at 1024x768 or 1366 x 768 (all testing done on 1366x768)
