@@ -1,5 +1,3 @@
-#Made by YaboiiDust#8251 (Discord)
-
 import json
 import numpy
 import os
@@ -94,7 +92,7 @@ def solve_captcha(file_path):
     if captcha_text != 0:
         return captcha_text
     else:
-        return 'FUCK'
+        return 'kekw'
 
 def sample(dc, x, y):
     xfactor = 40
