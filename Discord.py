@@ -737,7 +737,7 @@ def solver():
 									solved_captcha = solve_captcha(image_file_path)
 									#process logic
 									#processed with no output
-									if solved_captcha == 'FUCK':
+									if solved_captcha == 'kekw':
 										solved_captcha = ''
 									#processed equation
 									if '=' in solved_captcha:
